@@ -48,7 +48,7 @@ Bu projeyi GitHub'dan klonlayın:
 
 **git clone https://github.com/sarsilmazhackteam/SarsilmazVson.git**
 
-**cd root-security-tool**
+**cd SarsilmazVson**
 
 Aracı Çalıştırma:
 
