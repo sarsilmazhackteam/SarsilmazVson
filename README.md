@@ -25,9 +25,13 @@ Bu proje, Sarsılmaz ve Root Team adına **Emin Sarsılmaz** tarafından kodlanm
 Gereksinimler: Python 3.x ve aşağıdaki Python kütüphaneleri gereklidir:
 
 • requests
+
 • urllib
+
 • termcolor
+
 • pyfiglet
+
 • colorama
 
 Kütüphanelerin Kurulumu:
@@ -40,8 +44,9 @@ Aracı İndirme:
 
 Bu projeyi GitHub'dan klonlayın:
 
-**git clone https://github.com/sarsilmazhackteam/SarsilmazVson.git
-cd root-security-tool**
+**git clone https://github.com/sarsilmazhackteam/SarsilmazVson.git**
+
+**cd root-security-tool**
 
 Aracı Çalıştırma:
 
