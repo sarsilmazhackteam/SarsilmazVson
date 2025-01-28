@@ -37,9 +37,11 @@ Gereksinimler: Python 3.x ve aşağıdaki Python kütüphaneleri gereklidir:
 Kütüphanelerin Kurulumu:
 
 **pip install requests termcolor pyfiglet colorama**
+
 SQLMap Kurulumu:
 
 *SQLMap'in sisteminizde kurulu olduğundan emin olun. SQLMap'i resmi GitHub sayfasından indirebilirsiniz.*
+
 Aracı İndirme:
 
 Bu projeyi GitHub'dan klonlayın:
