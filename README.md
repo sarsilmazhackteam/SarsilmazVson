@@ -31,6 +31,7 @@ Gereksinimler: Python 3.x ve aşağıdaki Python kütüphaneleri gereklidir:
 • colorama
 
 Kütüphanelerin Kurulumu:
+
 **pip install requests termcolor pyfiglet colorama**
 SQLMap Kurulumu:
 
@@ -38,17 +39,20 @@ SQLMap Kurulumu:
 Aracı İndirme:
 
 Bu projeyi GitHub'dan klonlayın:
-**git clone https://github.com/kullanici_adi/root-security-tool.git
+
+**git clone https://github.com/sarsilmazhackteam/SarsilmazVson.git
 cd root-security-tool**
 
 Aracı Çalıştırma:
 
 Aracı çalıştırmak için aşağıdaki komutu kullanın:
+
 **python sarsilmaz.py**
 
 Taranacak URL'yi Girme:
 
 Aracı çalıştırdıktan sonra, taranacak URL'yi girin. Örneğin:
+
 **[?] Taranacak URL: http://example.com**
 
 ## Gerisinide bi zahmet anlayın...
