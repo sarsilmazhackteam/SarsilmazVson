@@ -1,6 +1,6 @@
-**Root & Sarsılmaz Güvenlik Tarama Aracı**, web uygulamalarında yaygın güvenlik açıklarını tespit etmek için geliştirilmiş bir güvenlik tarama aracıdır. Bu araç, komut enjeksiyonu, açık dizinler, dosya dahil etme, XSS, CSRF, dosya yükleme açıkları gibi birçok güvenlik zafiyetini tespit etmek için kullanılabilir. Ayrıca, WAF tespiti ve SQLMap entegrasyonu ile veritabanı taraması yapabilir.
+**1337 & Sarsılmaz Güvenlik Tarama Aracı**, web uygulamalarında yaygın güvenlik açıklarını tespit etmek için geliştirilmiş bir güvenlik tarama aracıdır. Bu araç, komut enjeksiyonu, açık dizinler, dosya dahil etme, XSS, CSRF, dosya yükleme açıkları gibi birçok güvenlik zafiyetini tespit etmek için kullanılabilir. Ayrıca, WAF tespiti ve SQLMap entegrasyonu ile veritabanı taraması yapabilir.
 
-Bu proje, Sarsılmaz ve Root Team adına **Emin Sarsılmaz** tarafından kodlanmıştır.
+Bu proje, Sarsılmaz ve 1337 adına **Emin Sarsılmaz** tarafından kodlanmıştır.
 
 # Özellikler
 • Komut Enjeksiyonu Testi: Web uygulamasında komut enjeksiyonu açıklarını tespit eder.
